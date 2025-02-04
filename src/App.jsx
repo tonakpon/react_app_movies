@@ -132,8 +132,3 @@ const App = () => {
 }
 
 export default App;
-
-
-// import { Client } from 'appwrite';
-// const client = new Client();
-// client.setProject('67a0a0840025bcad01c1');
